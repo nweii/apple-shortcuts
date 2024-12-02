@@ -4,7 +4,7 @@ Various shortcuts for the Apple Shortcuts app.
 ## For Obsidian
 - [Add to Daily Note](https://www.icloud.com/shortcuts/305c023239b1439886f125bec57afd2e): Parent shortcut that takes text and runs the following shortcuts based on the following conditions:
 	- If the text starts with **`- `**, it sends it to [Add to Daily Log](https://www.icloud.com/shortcuts/f880490899104093b02ec13916d0761e), which adds inputted text to the `## Log` area of my daily note.
-	- If the text starts with **`/b `**, it sends it to [Add to Slip Box](https://www.icloud.com/shortcuts/417a8d5a182446eb88b419afca0aea70),” which adds inputted text to the bottom of your daily note file.[^1]
+	- If the text starts with **`/b `**, it sends it to [Add to Slip Box](https://www.icloud.com/shortcuts/417a8d5a182446eb88b419afca0aea70),” which adds inputted text to the bottom of your daily note file.
 	- Otherwise, it sends text to [Add to Journal](https://www.icloud.com/shortcuts/f00f4dcfd69b424e869d07ac009883bf), which adds inputted text under the `## Notes` area of my daily note.  
 	- If you tap “ok” without writing anything, the shortcut will run [Open Daily Note](https://www.icloud.com/shortcuts/d04de9f3057d4a3bac360521082c6bb1).  
 
