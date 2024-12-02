@@ -13,7 +13,7 @@ Various shortcuts for the Apple Shortcuts app.
 - [Tweet to Obsidian](https://www.icloud.com/shortcuts/f231761b70ab41b3a1ece6baee87b24e): Takes a Tweet URL, converts it to Markdown using “**Tweet to Markdown**,“ then sends the formatted Tweet to “**Add to Slip Box**”.
 	- [Tweet to Markdown](https://www.icloud.com/shortcuts/5ecde07951ea47bf872c668a10ed6ca1): Takes a Tweet URL and outputs it as a [[Markdown]] link followed by a blockquote of the tweet itself. If the tweet has images or a quote tweet in it, then this includes a rendered preview of the tweet after the blockquote.
 - [Skeet to Obsidian](https://www.icloud.com/shortcuts/a376a2ab4ad643b2a6ccf5b20cc92a54) does the same as above while using the below shortcut to convert a Bluesky post URL to markdown:
-    - [Skeet to Markdown](https://www.icloud.com/shortcuts/ec662b3fe4e6423b900e2857ad42274d): Uses the Bluesky API to achieve the same effect as above except with much greater capability: it can embed images, videos, and quoted posts directly.
+    - [Skeet to Markdown](https://www.icloud.com/shortcuts/3fb36919240f47b0a0ed577a8f9771f1): Uses the [Bluesky API](https://docs.bsky.app/docs/advanced-guides/posts) to achieve the same effect as above except with much greater capability: it can embed images, videos, and quoted posts directly.
 
 ## Lifestyle
 - [Calculate Tip](https://www.icloud.com/shortcuts/bca824e768c849d3a3bde57f08a15845): Enter a total amount and choose a tip size to get the tip amount and total sum.
